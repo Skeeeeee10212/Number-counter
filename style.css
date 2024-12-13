@@ -1,0 +1,31 @@
+html {
+    background-color: #9f2b68;
+}
+
+#countLabel {
+    display: block;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    translate: (-50% -50%);
+    font-size: 400%;
+}
+
+#btnContainer {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    translate: (-50% -50%);
+    
+}
+
+.buttons {
+    color: #000000;
+    background-color: #bf40bf;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bolder !important;
+    cursor: pointer;
+    font-size: 100%;
+}
+
